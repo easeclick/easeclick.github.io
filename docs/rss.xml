@@ -1,2 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Easeclick 's Blog</title><link>https://easeclick.github.io</link><description>一个分享日记的地方</description><copyright>Easeclick 's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/5234702?v=4</url><title>avatar</title><link>https://easeclick.github.io</link></image><lastBuildDate>Thu, 20 Jun 2024 03:52:04 +0000</lastBuildDate><managingEditor>Easeclick 's Blog</managingEditor><ttl>60</ttl><webMaster>Easeclick 's Blog</webMaster><item><title>Hello World</title><link>https://easeclick.github.io/post/Hello%20World.html</link><description>Hello World!。</description><guid isPermaLink="true">https://easeclick.github.io/post/Hello%20World.html</guid><pubDate>Thu, 20 Jun 2024 03:15:42 +0000</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Easeclick 's Blog</title><link>https://easeclick.github.io</link><description>一个分享日记的地方</description><copyright>Easeclick 's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/5234702?v=4</url><title>avatar</title><link>https://easeclick.github.io</link></image><lastBuildDate>Thu, 20 Jun 2024 05:23:56 +0000</lastBuildDate><managingEditor>Easeclick 's Blog</managingEditor><ttl>60</ttl><webMaster>Easeclick 's Blog</webMaster><item><title>推荐模型</title><link>https://easeclick.github.io/post/tui-jian-mo-xing.html</link><description># 推荐模型&#13;
+### 青禾SDXL-幻想引擎 &#13;
+正面提示词(Prompt)：&#13;
+```&#13;
+1girl,analogue,film、washedout,film,colour faded,400 iso film stock,oldfashioned, mark,beautiful cinematic lighting,engaging atmosphere,, ((film still,movie still)),photograph,volumetric lighting,Slow Shutter Speed,Primitivism,RAW photo,ultra-sharp focus,internationally-acclaimed photograph,ambient atmosphere,ambient,&#13;
+```&#13;
+负面提示词(Negative prompt)：&#13;
+```&#13;
+(worst quality:1.4),(low quality:1.4),bad eyes,airbrushed, plastic, deformed, watermark&#13;
+```&#13;
+![b03a4e7ed365f4a63b39180efe8da6fe44d54f3a7867b882cfa9f729c897341a](https://github.com/easeclick/easeclick.github.io/assets/5234702/6811054a-f59c-4ab9-bfd6-4c552e3ae4b8)&#13;
+&#13;
+&gt;[V2.0-暗房影真](https://liblibai-online.vibrou.com/web/model/820ee8b4e9904f87aa4e525e4d78ec55/c8517af4309cd30b29fcd5673be61bb757e1bdef9d2ac78702428d1b4e963328.safetensors?auth_key=1718863169-39ac45a42f504403a14fbf27955af08c-0-5ea3fa5ca1ed74ff53e1e778031bbcc2&amp;attname=%E9%9D%92%E7%A6%BESDXL-%E5%B9%BB%E6%83%B3%E5%BC%95%E6%93%8E_V2.0-%E6%9A%97%E6%88%BF%E5%BD%B1%E7%9C%9F.safetensors)&#13;
+&#13;
+&gt;[V1.0-梦绚](https://liblibai-online.vibrou.com/web/model/820ee8b4e9904f87aa4e525e4d78ec55/3a2b580ea847bcb2cd94336778435341dab34c74cfeee3277953930d34ccb8ee.safetensors?auth_key=1718863220-2548618de2854509abc94dbca32e3743-0-b717f42d7ac9cd56eadb9655d121b04b&amp;attname=%E9%9D%92%E7%A6%BESDXL-%E5%B9%BB%E6%83%B3%E5%BC%95%E6%93%8E_V1.0-%E6%A2%A6%E7%BB%9A.safetensors)&#13;
+---。</description><guid isPermaLink="true">https://easeclick.github.io/post/tui-jian-mo-xing.html</guid><pubDate>Thu, 20 Jun 2024 05:09:27 +0000</pubDate></item><item><title>Hello World</title><link>https://easeclick.github.io/post/Hello%20World.html</link><description>Hello World!。</description><guid isPermaLink="true">https://easeclick.github.io/post/Hello%20World.html</guid><pubDate>Thu, 20 Jun 2024 03:15:42 +0000</pubDate></item></channel></rss>
